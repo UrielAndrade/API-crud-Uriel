@@ -12,10 +12,7 @@ A API permite realizar as operações básicas de CRUD com dados armazenados em 
 
 Tecnologias Utilizadas
 
-    Linguagem: [Aqui você pode colocar a linguagem utilizada, como JavaScript (Node.js), Python, etc.]
-    Framework: [Exemplo: Express para Node.js, Flask/Django para Python, etc.]
-    Banco de Dados: [Exemplo: MongoDB, MySQL, PostgreSQL, etc.]
-    Outras Dependências: [Se houver mais dependências, como bibliotecas ou serviços utilizados.]
+    Linguagem: [ linguagem utilizada, como JavaScript (Node.js).]
 
 Como Executar
 
@@ -29,8 +26,6 @@ Instale as dependências: Navegue até o diretório do projeto e execute o coman
 
 cd API-crud-Uriel
 npm install  # ou outro comando dependendo da linguagem/gerenciador de pacotes
-
-Configuração do Banco de Dados (se necessário): [Aqui você pode explicar como configurar o banco de dados local, se for o caso.]
 
 Inicie o servidor:
 
@@ -52,8 +47,3 @@ Contribuindo
 
 Sinta-se à vontade para contribuir para o projeto, seja com melhorias no código ou sugestões. Para contribuir:
 
-    Faça um fork do repositório.
-    Crie uma branch com a sua feature: git checkout -b minha-feature.
-    Commit suas mudanças: git commit -am 'Adiciona nova feature'.
-    Envie para o repositório remoto: git push origin minha-feature.
-    Crie um Pull Request para revisão.
