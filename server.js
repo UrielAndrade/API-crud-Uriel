@@ -1,18 +1,13 @@
-const express = require('express');
+//? methodo 2 mais EZ mais antigo, (nao compensa, abandonado aos poucos!)
+//!const express = require('express');
+
+//? Metodo 1 de "Puxar" a biblioteca express, (Mais chato minh opn, entretanto, mais moderno), ADD no JSON "packge.json" = "type": "module", 
+import express from 'express';
 const app = express();
 const port = 3000;
 
-app.use(express.json()); //  Para entender que as requests sao em JSON
+app.get("/tasks", (req, res) => {
+        res.send('ok, Entrou na rota usuarios!');
 
-app.get('/', (req, res) => {
-    res.send('Isso deve aparecer na pagina');
-});
-
-// End point 2
-app.get('/api/data', (req, res) => {
-    res.json({ message: 'Here is some data!' });
-});
-
-app.listen(port, () => {
-    console.log(`Server is running on http://localhost:${port}`);
-});
+    }) //1) tipo de rota / metodo HTTP 2) endereco
+app.listen(3000)
