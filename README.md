@@ -1,6 +1,6 @@
 API CRUD - Uriel
 
-Este projeto é uma API estilo CRUD (Create, Read, Update, Delete) que tem como objetivo fornecer um ponto de partida para aprender sobre o desenvolvimento de APIs RESTful. Este é o primeiro projeto do Uriel relacionado à criação de APIs, começado em 31 de janeiro de 2025.
+Este projeto é uma API estilo CRUD (Create, Read, Update, Delete) que tem como objetivo fornecer um ponto de partida para aprender sobre o desenvolvimento de APIs RESTful. Este é o meu primeiro projeto relacionado à criação de APIs, começado em 31 de janeiro de 2025.
 Funcionalidades
 
 A API permite realizar as operações básicas de CRUD com dados armazenados em um banco de dados. As funcionalidades implementadas até o momento são:
