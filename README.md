@@ -57,7 +57,3 @@ Sinta-se à vontade para contribuir para o projeto, seja com melhorias no códig
     Commit suas mudanças: git commit -am 'Adiciona nova feature'.
     Envie para o repositório remoto: git push origin minha-feature.
     Crie um Pull Request para revisão.
-
-Licença
-
-Este projeto está licenciado sob a [Nome da Licença] - consulte o arquivo LICENSE para mais detalhes.
