@@ -1,0 +1,13 @@
+node_modules
+# Keep environment variables out of version control
+.env
+# Ignore arquivos de build (como o diretório de build do TypeScript)
+dist/
+
+# Ignore o diretório de cache do npm
+npm-debug.log*
+# Ignore os arquivos de configuração de ambiente
+.env
+
+# Ignore arquivos de log
+*.log
