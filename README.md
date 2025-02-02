@@ -21,9 +21,8 @@ Como Executar
 
 Para rodar a API localmente, siga os passos abaixo:
 
-    Clone o repositório:
+    Clone o repositório: git clone git@github.com:UrielAndrade/API-crud-Uriel.git
 
-git clone git@github.com:UrielAndrade/API-crud-Uriel.git
 
 Instale as dependências: Navegue até o diretório do projeto e execute o comando para instalar as dependências:
 
