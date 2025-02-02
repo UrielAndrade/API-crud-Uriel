@@ -46,7 +46,3 @@ A seguir estão os principais endpoints da API:
     PUT /api/items/{id}: Atualiza um item específico.
     DELETE /api/items/{id}: Deleta um item específico.
 
-Contribuindo
-
-Sinta-se à vontade para contribuir para o projeto, seja com melhorias no código ou sugestões. Para contribuir:
-
